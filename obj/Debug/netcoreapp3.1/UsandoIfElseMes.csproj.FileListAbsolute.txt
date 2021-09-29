@@ -1,0 +1,13 @@
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\bin\Debug\netcoreapp3.1\UsandoIfElseMes.exe
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\bin\Debug\netcoreapp3.1\UsandoIfElseMes.deps.json
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\bin\Debug\netcoreapp3.1\UsandoIfElseMes.runtimeconfig.json
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\bin\Debug\netcoreapp3.1\UsandoIfElseMes.runtimeconfig.dev.json
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\bin\Debug\netcoreapp3.1\UsandoIfElseMes.dll
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\bin\Debug\netcoreapp3.1\UsandoIfElseMes.pdb
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\obj\Debug\netcoreapp3.1\UsandoIfElseMes.csprojAssemblyReference.cache
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\obj\Debug\netcoreapp3.1\UsandoIfElseMes.AssemblyInfoInputs.cache
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\obj\Debug\netcoreapp3.1\UsandoIfElseMes.AssemblyInfo.cs
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\obj\Debug\netcoreapp3.1\UsandoIfElseMes.csproj.CoreCompileInputs.cache
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\obj\Debug\netcoreapp3.1\UsandoIfElseMes.dll
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\obj\Debug\netcoreapp3.1\UsandoIfElseMes.pdb
+C:\Projetos\ams\1Ano\EstruturaSwitchCase\UsandoIfElseMes\obj\Debug\netcoreapp3.1\UsandoIfElseMes.genruntimeconfig.cache
